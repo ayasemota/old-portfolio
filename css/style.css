@@ -200,7 +200,7 @@ button:focus {
 }
 
 .prt_home_wrapper {
-    background-image: url(../images/banner_bg.jpg);
+    background: black;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -258,10 +258,6 @@ button:focus {
     top: 50px;
     cursor: pointer;
     z-index: 2;
-}
-
-.prt_menu_wrapper {
-    text-align: center;
 }
 
 .prt_menu_wrapper a {
